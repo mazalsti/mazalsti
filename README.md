@@ -34,7 +34,7 @@
 
 ## Git Status
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ramzablv&theme=gruvbox&show_icons=true?)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mazalsti&theme=gruvbox&show_icons=true?)
 
 ## Repositórios
 
