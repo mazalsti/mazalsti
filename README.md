@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-8ec07c?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ant%C3%B4nio-oliveira-dev/)
 [![Discord](https://img.shields.io/badge/Discord-fabd2f?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@pharao368/)
 [![Instagram](https://img.shields.io/badge/-Instagram-%238ec07c?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/Marsshmero/)
-[![Gmail](https://img.shields.io/badge/Gmail-282828?style=for-the-badge&logo=gmail&logoColor=fabd2f)](mailto:raphael368@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-282828?style=for-the-badge&logo=gmail&logoColor=fabd2f)](mailto:toni.cpd3@gmail.com)
 
 ## Ferramentas
 
