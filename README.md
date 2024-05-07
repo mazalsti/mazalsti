@@ -14,7 +14,7 @@
 
 ## Linguagens utilizadas
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ramzablv&layout=compact&bg_color=282828&border_color=ffffff&title_color=fabd2f&text_color=8ec07c)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ramzablv&layout=compact&bg_color=282828&border_color=ffffff&title_color=fabd2f&text_color=8ec07c/)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
